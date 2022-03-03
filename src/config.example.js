@@ -1,6 +1,6 @@
 const config = {
-	ownerID: ['YourAccountID'],
-	token: 'YourBotToken',
+	ownerID: ['852632861231284255'],
+	token: 'OTQ3ODgyNTUxNzkwNDM2NDI0.Yhzuaw.DXF_5pijjcBPCKNAX1lKmwyf_bE',
 	// For looking up Twitch, Fortnite, Steam accounts
 	api_keys: {
 		// https://dev.twitch.tv/console/apps
@@ -30,7 +30,7 @@ const config = {
 	// add plugins/commands here if you don't want them loaded in the bot.
 	disabledCommands: [],
 	disabledPlugins: [],
-	websiteURL: 'Bot\'s dashboard',
+	websiteURL: '',
 	// your support server
 	SupportServer: {
 		// Link to your support server
